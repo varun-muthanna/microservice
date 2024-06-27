@@ -1,2 +1,3 @@
 # microservice
- Microservice using Go, Chi  and Redis.
+ Microservice in Golang
+ 
